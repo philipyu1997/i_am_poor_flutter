@@ -20,7 +20,9 @@ I Am Poor is an app described as "a work of art with no hidden function at all",
 
 Here's a preview of how the app looks:
 
-<img src="ADD_GIF_LINK" width=250>
+<img src="https://user-images.githubusercontent.com/35745973/83931834-a45e7780-a753-11ea-8283-749f4d74570d.png" width=250>
+
+<img src="https://user-images.githubusercontent.com/35745973/83931832-a294b400-a753-11ea-90e2-3efa5dfe8ca3.png" width=250>
 
 ## Credits
 
