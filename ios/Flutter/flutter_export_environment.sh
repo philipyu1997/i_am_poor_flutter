@@ -2,7 +2,7 @@
 # This is a generated file; do not edit or check into version control.
 export "FLUTTER_ROOT=/Users/philipyu/Developer/flutter"
 export "FLUTTER_APPLICATION_PATH=/Users/philipyu/Desktop/git_workspace/mobile/lab/flutter/i_am_poor_flutter"
-export "FLUTTER_TARGET=/Users/philipyu/Desktop/git_workspace/mobile/lab/flutter/i_am_poor_flutter/lib/main.dart"
+export "FLUTTER_TARGET=/Users/philipyu/Desktop/git_workspace/mobile/lab/flutter/i_am_poor_flutter/lib/view/main.dart"
 export "FLUTTER_BUILD_DIR=build"
 export "SYMROOT=${SOURCE_ROOT}/../build/ios"
 export "OTHER_LDFLAGS=$(inherited) -framework Flutter"
