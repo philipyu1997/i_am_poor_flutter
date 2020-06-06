@@ -4,7 +4,7 @@
 1. [Overview](#Overview)
 2. [Product Specs](#Product-Specs)
 3. [App Preview](#App-Preview)
-7. [Credits](#Credits)
+4. [Credits](#Credits)
 
 ## Overview
 ### Description
