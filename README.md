@@ -9,7 +9,7 @@
 ## Overview
 ### Description
 
-I Am Poor is an app described as "a work of art with no hidden function at all", with its only purpose being to show other people that they are poor.
+I Am Poor is a parody Flutter application of the I Am Rich app originally developed by Armin Heinrich, with its only purpose being to show other people that they were able to afford it. The only purpose of I Am Poor is to show other people that you are poor.
 
 ## Product Specs
 ### User Stories
@@ -20,9 +20,9 @@ I Am Poor is an app described as "a work of art with no hidden function at all",
 
 Here's a preview of how the app looks:
 
-<img src="https://user-images.githubusercontent.com/35745973/83931834-a45e7780-a753-11ea-8283-749f4d74570d.png" width=250>
+<img src="https://github.com/py415/app-resources/blob/master/flutter/ios/flutter-ios-i-am-poor.png" width=250>
 
-<img src="https://user-images.githubusercontent.com/35745973/83931832-a294b400-a753-11ea-90e2-3efa5dfe8ca3.png" width=250>
+<img src="https://github.com/py415/app-resources/blob/master/flutter/android/flutter-android-i-am-poor.png" width=250>
 
 ## Credits
 
